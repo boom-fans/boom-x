@@ -16,6 +16,7 @@ const nextConfig = {
     path: '',
   },
   trailingSlash: true,
+  output: 'standalone',
 }
 
 module.exports = nextConfig
