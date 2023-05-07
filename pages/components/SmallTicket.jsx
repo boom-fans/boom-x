@@ -10,7 +10,7 @@ export default function SmallTicket({headline, details}) {
                     <div className="flex flex-col justify-center h-full px-[1vmax] ">
                         <div className="flex items-center justify-center h-[8vmax]  md:h-[3vmax]">
                             <div className='border-b-2 border-black w-[17vmax] h-[5vmax] md:w-[12vmax] md:h-[3vmax] relative  '>
-                                <Image src='/polygonBanner.png' alt="logo" fill />
+                                <img src='/polygonBanner.png' alt="logo" fill />
                             </div>
                         </div>
                         <div className='flex flex-1 justify-evenly flex-col py-5'>

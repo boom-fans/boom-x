@@ -32,7 +32,7 @@ export default function NavBar({ user, scale, setScale }) {
                                 } className='500 flex flex-row items-center text-sm md:text-xl font-[500] gap-x-[1vw] pr-10'>
                                     <div
                                         className='relative h-[5vh] w-[5vh] '>
-                                        <Image src="/Profile.png" fill />
+                                        <img src="/Profile.png" fill />
                                     </div>
                                     <p>{
                                         user ? (user == address ?

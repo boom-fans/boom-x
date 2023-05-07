@@ -19,7 +19,7 @@ export default function SmallTicketDetails({ details, link, showSelected, setSho
           <div className="flex flex-col justify-center h-full px-[1vmax]">
             <div className="flex items-center justify-center h-[10vh] md:h-[7.17vmax] ">
               <div className="relative w-full h-[10vh] md:h-[4.6vmax]  ">
-                <Image src="/polygonBanner.png" alt="logo" fill />
+                <img src="/polygonBanner.png" alt="logo" fill />
               </div>
             </div>
             <div className="flex flex-1 h-full items-center pt-[1vmax] gap-y-4 flex-col">
